@@ -3,6 +3,6 @@ export interface IArticle {
   title: string;
   description: string;
   url: string;
-  urlToImge: string;
+  urlToImage: string;
   sourceId: string;
 }
